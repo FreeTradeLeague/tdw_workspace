@@ -1,0 +1,22 @@
+/* places_1416_data.sql
+
+See places_1416_ddl.sql for table layout.
+
+  name
+  uxp
+  loc
+  type
+  political
+  image
+  url
+  notes
+*/
+
+BEGIN DEFERRED;
+
+INSERT INTO places_1416 VALUES('Biter', 'B354623-A', 'spinward_marches_1526', 'planet', 'ftl', NULL, NULL, 'Currently undergoing significant political change.');
+
+INSERT INTO places_1416 VALUES('Wardn', 'B756486-B', 'spinward_marches_1727', 'plaent', 'ftl', NULL, NULL, 'Current home of PAJL and getting more freedmen.');
+
+COMMIT;
+

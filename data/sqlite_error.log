@@ -1,0 +1,7 @@
+sqlite> .read places_1416_data.sql
+Error: near line 2: table places_1416 has 8 columns but 9 values were supplied
+Error: near line 4: table places_1416 has 8 columns but 9 values were supplied
+Error: near line 6: table places_1416 has 8 columns but 9 values were supplied
+Error: near line 8: table places_1416 has 8 columns but 9 values were supplied
+Error: near line 10: table places_1416 has 8 columns but 9 values were supplied
+Error: near line 12: table places_1416 has 8 columns but 9 values were supplied

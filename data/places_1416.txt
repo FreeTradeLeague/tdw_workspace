@@ -1,0 +1,6 @@
+Biter:B354623-A:spinward_marches_1526:planet:ftl:::"Currently underdoing significant political change."
+Wardn:B756486-B:spinward_marches_1727:planet:ftl:::"Home of PAJL and getting more freedmen."
+Iron:E529000-0:spinward_marches_1626:planet:none:::"Site of the first FTL inspired naval battle."
+Nowhere:777777-7:biter_1234:municipality:domici:::"Residence of The Domici and seat of the Theocratic Order of Firsters."
+Oregund:777777-7:biter_1111:municiplaity:path:::"Large city mostly controlled by the Path."
+Ifningholm:777777-7:biter_2222:municipality:biter:::"Seat of the Biter planetary government."

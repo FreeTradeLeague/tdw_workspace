@@ -1,0 +1,12 @@
+The data set consists of People, Places, Things, and Organizations. In general there are two versions of everything, a 1416 and 1428 version. 
+
+1416 data is the base. 1428 table layouts are exactly the same, but are empty if nothing changes in that cell. For example, the dob field for a person does not change. 
+
+Where possible, the database naming scheme uses lower case alpha. Separators are underscores '_'. For example, table 'places_1428'. 
+
+Detailed comments are in each table's definitions. There are separate files to be read to insert the actual data. For exmaple, the file 'places_1428_ddl.sql' reads 'places_1428_data.sql'.
+
+
+
+In general, I'm still working on my normlization skills. Feel free to comment.  :)
+
