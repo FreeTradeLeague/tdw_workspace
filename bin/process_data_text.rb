@@ -21,9 +21,13 @@ out_file  = File.open(table_data_file, "w")
 out_file.puts "BEGIN DEFERRED;"
 
 in_file.each_line do |line|
+  puts line
+  line.strip!
   out_file.print "INSERT into #{table} VALUES( null"
   line_array = line.split(":")
   line_array.each do |item|
+    item.strip!
+    item = "null" if item.length < 1
     out_file.print ",'#{item}'"
   end
   out_file.puts ");" 

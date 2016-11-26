@@ -1,0 +1,191 @@
+Jozu Goro:1394::13:M:Humaniti::::Nowhere:::::::
+Brandi "Medic" Cooper:1404::0:F:Humaniti::::Nowhere:::::::
+Giselle:1391::0:F:Humaniti::::Nowhere:::::::
+Dustin "Mooch" Bradley:1398::0:M:Humaniti::::Nowhere:::::::
+Briana "Haggler" Wilkerson:1399::0:F:Humaniti::::Nowhere:::::::
+Anthony "Wizard":1399::0:M:Humaniti::::Nowhere:::::::
+Delilah "Flash":1399::0:F:Humaniti::::Nowhere:::::::
+Leone Nessel:1405::0:F:Humaniti::::Nowhere:::::::
+Herbert Nessel:1405::0:M:Humaniti::::Nowhere:::::::
+Franz Brandis:1405::0:M:Humaniti::::Nowhere:::::::
+Carina Brandis:1405::0:F:Humaniti::::Nowhere:::::::
+Luis Platz:1405::0:M:Humaniti::::Nowhere:::::::
+Isolde Platz:1405::0:F:Humaniti::::Nowhere:::::::
+
+The Domici:
+CPT Marco Domici:1394::0:M:Humaniti::::core:::::::
+Tala Domici:1399::0:F:Humaniti::::Nowhere:::CPL::::
+Karista:1399::0:F:Humaniti::::Nowhere:::::::
+Ian:1404::0:M:Humaniti::::convoy:::::::
+Akil:1404::0:M:Humaniti::::Nowhere:::::::
+Carol Week:1366::0:F:Humaniti::::Nowhere:::::::
+Josh Rivers:1388::0:M:Humaniti::::Nowhere:::::::
+Dean Mays:1399::0:F:Humaniti::::Nowhere:::::::
+Cal Wiggin:1396::10:M:Humaniti::::Nowhere:::::::
+Francisca "Pink" Welch:1397::0:F:Humaniti::::Nowhere:::CPL::::
+Lavon "Gamer" Hudson:1396::10:M:Humaniti::::Nowhere:::CPL::::
+Garlan Deland:1388::10:M:Humaniti::::Nowhere:::::::
+
+BDCR - South
+Bryce Martel:1372::0:M:Humaniti::::core:::CPT::::
+Brandy Crane:1377::0:F:Humaniti::::Nowhere:::LT::::
+Donald "Bug" Knapp:1381::0:M:Humaniti::::Nowhere:::::::
+Chandra "Chappy" Capelle:1382::0:F:Humaniti::::Nowhere:::::::
+Dona:1382::0:F:Humaniti::::Nowhere:::::::
+Jared Wilkins, PhD:1382::0:M:Humaniti::::Nowhere:::::::
+Les Maillot:1374::0:M:Humaniti::::Nowhere:::LT::::
+Marlon Maillet:1372::0:M:Humaniti::::Nowhere:::::::
+Pauline Lefranc:1372::0:F:Humaniti::::convoy:::::::
+Angel Bitt:1394::0:F:Humaniti::::convoy:::LCPL::::
+Randall Kane:1398::0:M:Humaniti::::convoy:::PVT::::
+Ilana Cooke:1386::0:F:Humaniti::::core:::::::
+
+Flying Boat:
+Clifton Godwin:1391::0:M:Humaniti::::Nowhere:::::::
+Mirriam Bitt:1394::0:F:Humaniti::::Nowhere:::LCPL::::
+
+Hofud Marines:
+Roy McKenna:1394::0:M:Humaniti::::core:::1SGT::::
+Celinda Schmitt:1394::0:F:Humaniti::::Nowhere:::LCPL::::
+Gregorio McMahon:1394::0:M:Humaniti::::Nowhere:::LCPL::::
+Cristine Cranston:1394::11:F:Humaniti::::Oregrund:::CPL::::
+Nyla Pelissier:1394::0:F:Humaniti::::Nowhere:::LCPL::::
+Ezra Schroder:1394::0:M:Humaniti::::Nowhere:::LCPL::::
+Jason Woodward:1394::0:M:Humaniti::::Nowhere:::CPL::::
+Kristopher Collins:1394::0:M:Humaniti::::Nowhere:::LCPL::::
+Rene Flament:1394::0:F:Humaniti::::convoy:::LCPL::::
+
+Communication - Lot 2:
+Patricia "Nowhere":1361::0:F:Humaniti::::core:::::::
+Tyjon:1400::0:M:Humaniti::::convoy:::::::
+Herman:1402::0:M:Humaniti::::Nowhere:::::::
+Vashan:1325::0:M:Humaniti::::Nowhere:::::::
+Lincoln:1365::0:M:Humaniti::::Nowhere:::::::
+Allan:1401::0:M:Humaniti::::Nowhere:::::::
+Madelyn:1397::0:F:Humaniti::::Nowhere:::::::
+Kristine:1397::0:F:Humaniti::::Nowhere:::::::
+
+Mikael's Diner - Lot 7:
+Mikael:1366::0:M:Humaniti::::Nowhere:::::::
+Leonard:1392::0:M:Humaniti::::Nowhere:::::::
+Julia:1384::0:F:Humaniti::::Nowhere:::::::
+Brittany:1385::0:F:Humaniti::::Nowhere:::::::
+'Doctor' Marcie:1387::0:F:Humaniti::::Nowhere:::::::
+April:1397::0:F:Humaniti::::Nowhere:::::::
+Irma:1399::0:F:Humaniti::::Nowhere:::::::
+Georgette:1399::0:F:Humaniti::::Nowhere:::::::
+
+Gunship Landing Pad - Lot 8:
+Ken Atkin:1384::0:M:Humaniti::::Nowhere:::LT::::
+Vance Wheeler:1390::0:M:Humaniti::::Nowhere:::::::
+
+Great House/Medical Clinic - Lot 9:
+Sapphire Bradford:1388::0:F:Humaniti::::Oregrund:::::::
+Peggy:1388::0:F:Humaniti::::Nowhere:::::::
+
+Inn - Lot 10:
+Jarek:1353::0:M:Humaniti::::Nowhere:::::::
+Dana:1360::0:F:Humaniti::::Nowhere:::::::
+Messiette:1381::0:F:Humaniti::::Nowhere:::::::
+Wren:1394::0:F:Humaniti::::Nowhere:::::::
+Mari:1406::0:F:Humaniti::::Nowhere:::::::
+
+Market - Lot 11:
+Stewart:1372::0:M:Humaniti::::Nowhere:::::::
+Loretta:1382::0:F:Humaniti::::Nowhere:::::::
+Lorna:1390::0:F:Humaniti::::convoy:::::::
+Lenora:1396::0:F:Humaniti::::convoy:::::::
+Ruby:1401::0:F:Humaniti::::Nowhere:::::::
+Adam:1401::0:M:Humaniti::::Nowhere:::::::
+Jomo:1354::0:M:Humaniti::::Nowhere:::::::
+
+Salvage - Lot 13:
+Holly:1382::0:F:Humaniti::::Nowhere:::::::
+William:1392::0:M:Humaniti::::convoy:::::::
+Leah:1403::0:F:Humaniti::::Nowhere:::::::
+Roscoe:1406::0:M:Humaniti::::Nowhere:::::::
+
+Garage - Lot 14:
+Jessie:1382::0:M:Humaniti::::Nowhere:::::::
+
+Construction - Lot 15:
+Georgette Gunarson:1327::0:F:Humaniti::::Nowhere:::::::
+Takira:1362::0:F:Humaniti::::Nowhere:::::::
+Kevin:1370::0:M:Humaniti::::Nowhere:::::::
+David:1379::0:M:Humaniti::::Nowhere:::::::
+Brittney:1384::0:F:Humaniti::::Nowhere:::::::
+Algernon:1384::0:M:Humaniti::::Nowhere:::::::
+Melinda:1396::0:F:Humaniti::::Nowhere:::::::
+Lydia:1396::0:F:Humaniti::::Nowhere:::::::
+Maya:1396::0:F:Humaniti::::Nowhere:::::::
+Amelie:1396::0:F:Humaniti::::Nowhere:::::::
+
+Nana's Family:
+'Nana' Angelia:1340::0:F:Humaniti::::Nowhere:::::::
+Logan:1350::0:M:Humaniti::::convoy:::::::
+Dona:1354::0:F:Humaniti::::Nowhere:::::::
+Clinton:1357::0:M:Humaniti::::convoy:::::::
+Tobias:1359::11:M:Humaniti::::Nowhere:::::::
+Loraine:1361::0:F:Humaniti::::Nowhere:::::::
+Antonio:1385::0:M:Humaniti::::Nowhere:::::::
+Harvey:1388::0:M:Humaniti::::Nowhere:::::::
+Deven:1388::0:M:Humaniti::::Nowhere:::::::
+Alan:1389::11:M:Humaniti::::Nowhere:::::::
+Anne:1401::0:F:Humaniti::::Nowhere:::::::
+Shawn:1401::0:M:Humaniti::::Nowhere:::::::
+Pip:1401::0:M:Humaniti::::Nowhere:::::::
+
+Lou's Family:
+Lou:1356::0:M:Humaniti::::Nowhere:::::::
+Tammy:1365::0:F:Humaniti::::Nowhere:::::::
+Sharlene:1393::0:F:Humaniti::::Nowhere:::::::
+Hellen:1393::11:F:Humaniti::::Nowhere:::::::
+Herman:1395::11:M:Humaniti::::convoy:::::::
+Terry:1395::11:M:Humaniti::::Nowhere:::::::
+Nellie:1396::0:F:Humaniti::::Nowhere:::::::
+Gustav:1396::0:M:Humaniti::::Nowhere:::::::
+
+Jeremy's Family:
+Jeremy:1358::0:M:Humaniti::::Nowhere:::::::
+Laura:1364::0:F:Humaniti::::Nowhere:::::::
+Francis:1386::0:M:Humaniti::::Nowhere:::::::
+Tim:1391::0:M:Humaniti::::convoy:::::::
+Aldo:1392::0:M:Humaniti::::convoy:::::::
+Bob:1396::0:M:Humaniti::::Nowhere:::::::
+Roxanne:1397::0:F:Humaniti::::Nowhere:::::::
+Deloris:1398::0:F:Humaniti::::Nowhere:::::::
+Sam:1399::10:M:Humaniti::::Nowhere:::::::
+Bonnie:1406::10:F:Humaniti::::Nowhere:::::::
+
+Debara's Family:
+Debara:1364::0:F:Humaniti::::Nowhere:::::::
+Bernard:1374::0:M:Humaniti::::convoy:::::::
+Catrina:1385::0:F:Humaniti::::convoy:::::::
+Aiya:1392::10:F:Humaniti::::Nowhere:::::::
+Pam:1393::0:F:Humaniti::::Nowhere:::::::
+Connie:1394::0:F:Humaniti::::Nowhere:::::::
+Manni:1399::0:F:Humaniti::::Nowhere:::::::
+Roxanne:1400::0:F:Humaniti::::Nowhere:::::::
+Russel:1401::0:M:Humaniti::::Nowhere:::::::
+Ron:1402::0:M:Humaniti::::Nowhere:::::::
+Gina:1402::11:F:Humaniti::::Nowhere:::::::
+Luke:1402::0:M:Humaniti::::Nowhere:::::::
+Anne:1402::10:F:Humaniti::::Nowhere:::::::
+
+Jerry's Family:
+Jerry:1358::0:M:Humaniti::::Nowhere:::::::
+Alda:1366::0:F:Humaniti::::Nowhere:::::::
+Anzu:1389::0:F:Humaniti::::convoy:::::::
+Seth:1392::0:M:Humaniti::::convoy:::::::
+Gilbert:1394::0:M:Humaniti::::convoy:::::::
+Wyclef:1395::0:M:Humaniti::::convoy:::::::
+Max:1396::0:M:Humaniti::::Nowhere:::::::
+Katy:1396::0:F:Humaniti::::Nowhere:::::::
+Wendy:1397::0:F:Humaniti::::Nowhere:::::::
+Nikki:1397::11:F:Humaniti::::Nowhere:::::::
+Babetta:1397::10:F:Humaniti::::Nowhere:::::::
+Rute:1398::0:F:Humaniti::::Nowhere:::::::
+Anthony:1399::12:M:Humaniti::::Nowhere:::::::
+Delilah:1399::12:F:Humaniti::::Nowhere:::::::
+Sammy:1403::0:M:Humaniti::::Nowhere:::::::
+Willie:1406::10:M:Humaniti::::Nowhere:::::::
