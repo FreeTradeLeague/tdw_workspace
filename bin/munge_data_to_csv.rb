@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
 
-
 npc_file      = File.open("../data/npcdata.txt", "r")
 out_file      = File.open("../data/people_1416.txt", "w")
 outlier_file  = File.open("../data/unsorted_people_1416.txt", "w")
@@ -75,7 +74,7 @@ npc_file.each do |line|
 
 
   if groups.include?(line)
-    organization = line.sub(/[:']/, "")
+    organization = line.gsub(/[:']/, "")
     allegiance = "Firster" unless organization == "Doc"
     next
   end
@@ -124,7 +123,7 @@ npc_file.each do |line|
   # Setting baseline.
   location = "Nowhere" if location == ""
   species  = "Humaniti"
-  
+ 
   name.strip!
 
   sequence = %q[ name dob upp psr gender species morale organization 
@@ -147,7 +146,7 @@ npc_file.each do |line|
   string += "#{skills}:"
   string += "#{gear}:"
   string += "#{description}:"
-  #string += "#{notes}"
+  string += "#{notes}"
   string.strip!
   out_file.puts string
 end
