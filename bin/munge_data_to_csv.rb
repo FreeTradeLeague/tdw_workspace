@@ -117,15 +117,17 @@ npc_file.each do |line|
         upp = item
       end
 
+    when item.match(/\(PSR=[1-9][0-9]?/)
+      item.gsub!(/[\:\)]/, '')
+      item.gsub!(/\(PSR=/, '')
+      psr = item.to_i(10).to_s(16).upcase
+
     when item.match(/\d\)/)
       item.gsub!(/\)/, '')
       item.gsub!(/\:/, '')
       age = item.to_i
       yob = 1416 - age 
-    when item.match(/\(PSR=[0-9A-F]./)
-      item.gsub!(/\)/, '')
-      item.gsub!(/\(PSR=/, '')
-      psr = item.to_i
+
     end
   end
 
