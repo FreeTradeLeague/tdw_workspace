@@ -42,6 +42,19 @@ oddstarts = ["Term ", "\.\.\. ", "Ally", "5", "frequent ", "#"]
 
 npc_file.each do |line|
   line.strip!
+  
+  if line.length < 2
+    next
+  end
+
+  oddstarts.each do |odd|
+    if line.start_with?(odd)
+      outlier_file.puts line  
+      line = ""
+    end
+    next
+  end
+
   name          = ""
   dob           = ""
   upp           = ""
@@ -60,24 +73,12 @@ npc_file.each do |line|
   description   = ""
   notes         = ""
 
-  oddstarts.each do |odd|
-    if line.start_with?(odd)
-      outlier_file.puts line  
-      line = ""
-    end
-    next
-  end
-  
-  if line.length < 2
-    next
-  end
-
-
   if groups.include?(line)
     organization = line.gsub(/[:']/, "")
     allegiance = "Firster" unless organization == "Doc"
     next
   end
+
   line.split(" ").each do |item|
     item.strip!
     case
@@ -105,7 +106,8 @@ npc_file.each do |line|
     when gender.length == 0
       name = name + " " + item
 
-    when item.match(/\A[0-9].\)/)
+    #when item.match(/[0-9].\)/)
+    when item.match(/\d\)/)
       item.gsub!(/\)/, '')
       item.gsub!(/\:/, '')
       age = item.to_i
