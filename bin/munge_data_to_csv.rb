@@ -58,7 +58,7 @@ npc_file.each do |line|
   name          = ""
   dob           = ""
   upp           = ""
-  psr           = "0"
+  psr           = ""
   gender        = ""
   species       = ""
   morale        = ""
@@ -101,12 +101,22 @@ npc_file.each do |line|
         end
     when item == "[F]", item == "(F)"
       gender = "F"
+
     when item == "[M]", item == "(M)"
       gender = "M"
+
     when gender.length == 0
       name = name + " " + item
 
-    #when item.match(/[0-9].\)/)
+    when item.match(/[0-9A-F]{6}/)
+      item.gsub!(/[\)\(\[\]\*]/, '')
+      if item.match(/-/)
+        psr = $'
+        upp = $`
+      else 
+        upp = item
+      end
+
     when item.match(/\d\)/)
       item.gsub!(/\)/, '')
       item.gsub!(/\:/, '')
@@ -116,9 +126,6 @@ npc_file.each do |line|
       item.gsub!(/\)/, '')
       item.gsub!(/\(PSR=/, '')
       psr = item.to_i
-    when item.match(/\[[:xdigit:]{6}\]/)
-      upp = item
-
     end
   end
 
