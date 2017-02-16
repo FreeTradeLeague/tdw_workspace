@@ -1,155 +1,167 @@
-Jozu Goro:1394::13:M:Humaniti::Doc::Nowhere:::::::
-Brandi "Medic" Cooper:1404::0:F:Humaniti::Doc::Nowhere:::::::
-CPT Marco Domici:1394::0:M:Humaniti::The Domici:Firster:core:::::::
-Tala Domici:1399::0:F:Humaniti::The Domici:Firster:Nowhere:::CPL::::
-Karista:1399::0:F:Humaniti::The Domici:Firster:Nowhere:::::::
-Ian:1404::0:M:Humaniti::The Domici:Firster:convoy:::::::
-Akil:1404::0:M:Humaniti::The Domici:Firster:Nowhere:::::::
-Carol Week:1366::0:F:Humaniti::The Domici:Firster:Nowhere:::::::
-Josh Rivers:1388::0:M:Humaniti::The Domici:Firster:Nowhere:::::::
-Dean Mays:1399::0:F:Humaniti::The Domici:Firster:Nowhere:::::::
-Cal Wiggin:1396::10:M:Humaniti::The Domici:Firster:Nowhere:::::::
-Francisca "Pink" Welch:1397::0:F:Humaniti::The Domici:Firster:Nowhere:::CPL::::
-Lavon "Gamer" Hudson:1396::10:M:Humaniti::The Domici:Firster:Nowhere:::CPL::::
-Garlan Deland:1388::10:M:Humaniti::The Domici:Firster:Nowhere:::::::
-Giselle:1391::0:F:Humaniti::The Domici:Firster:Nowhere:::::::
-Bryce Martel:1372::0:M:Humaniti::BDCR - South:Firster:core:::CPT::::
-Brandy Crane:1377::0:F:Humaniti::BDCR - South:Firster:Nowhere:::LT::::
-Donald "Bug" Knapp:1381::0:M:Humaniti::BDCR - South:Firster:Nowhere:::::::
-Chandra "Chappy" Capelle:1382::0:F:Humaniti::BDCR - South:Firster:Nowhere:::::::
-Dona:1382::0:F:Humaniti::BDCR - South:Firster:Nowhere:::::::
-Jared Wilkins, PhD:1382::0:M:Humaniti::BDCR - South:Firster:Nowhere:::::::
-Les Maillot:1374::0:M:Humaniti::BDCR - South:Firster:Nowhere:::LT::::
-Marlon Maillet:1372::0:M:Humaniti::BDCR - South:Firster:Nowhere:::::::
-Pauline Lefranc:1372::0:F:Humaniti::BDCR - South:Firster:convoy:::::::
-Angel Bitt:1394::0:F:Humaniti::BDCR - South:Firster:convoy:::LCPL::::
-Randall Kane:1398::0:M:Humaniti::BDCR - South:Firster:convoy:::PVT::::
-Ilana Cooke:1386::0:F:Humaniti::BDCR - South:Firster:core:::::::
-Clifton Godwin:1391::0:M:Humaniti::Flying Boat:Firster:Nowhere:::::::
-Mirriam Bitt:1394::0:F:Humaniti::Flying Boat:Firster:Nowhere:::LCPL::::
-Roy McKenna:1394::0:M:Humaniti::Hofud Marines:Firster:core:::1SGT::::
-Celinda Schmitt:1394::0:F:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
-Gregorio McMahon:1394::0:M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
-Cristine Cranston:1394::11:F:Humaniti::Hofud Marines:Firster:Oregrund:::CPL::::
-Nyla Pelissier:1394::0:F:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
-Ezra Schroder:1394::0:M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
-Jason Woodward:1394::0:M:Humaniti::Hofud Marines:Firster:Nowhere:::CPL::::
-Kristopher Collins:1394::0:M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
-Rene Flament:1394::0:F:Humaniti::Hofud Marines:Firster:convoy:::LCPL::::
-Patricia "Nowhere":1361::0:F:Humaniti::Communication - Lot 2:Firster:core:::::::
-Tyjon:1400::0:M:Humaniti::Communication - Lot 2:Firster:convoy:::::::
-Herman:1402::0:M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Vashan:1325::0:M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Lincoln:1365::0:M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Allan:1401::0:M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Madelyn:1397::0:F:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Kristine:1397::0:F:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
-Mikael:1366::0:M:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Leonard:1392::0:M:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Julia:1384::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Brittany:1385::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-"Doctor" Marcie:1387::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-April:1397::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Irma:1399::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Georgette:1399::0:F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
-Ken Atkin:1384::0:M:Humaniti::Gunship Landing Pad - Lot 8:Firster:Nowhere:::LT::::
-Vance Wheeler:1390::0:M:Humaniti::Gunship Landing Pad - Lot 8:Firster:Nowhere:::::::
-Sapphire Bradford:1388::0:F:Humaniti::Great House/Medical Clinic - Lot 9:Firster:Oregrund:::::::
-Peggy:1388::0:F:Humaniti::Great House/Medical Clinic - Lot 9:Firster:Nowhere:::::::
-Jarek:1353::0:M:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
-Dana:1360::0:F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
-Messiette:1381::0:F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
-Wren:1394::0:F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
-Mari:1406::0:F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
-Stewart:1372::0:M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
-Loretta:1382::0:F:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
-Lorna:1390::0:F:Humaniti::Market - Lot 11:Firster:convoy:::::::
-Lenora:1396::0:F:Humaniti::Market - Lot 11:Firster:convoy:::::::
-Ruby:1401::0:F:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
-Adam:1401::0:M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
-Jomo:1354::0:M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
-Holly:1382::0:F:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
-William:1392::0:M:Humaniti::Salvage - Lot 13:Firster:convoy:::::::
-Leah:1403::0:F:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
-Roscoe:1406::0:M:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
-Jessie:1382::0:M:Humaniti::Garage - Lot 14:Firster:Nowhere:::::::
-Georgette Gunarson:1327::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Takira:1362::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Kevin:1370::0:M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-David:1379::0:M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Brittney:1384::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Algernon:1384::0:M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Melinda:1396::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Lydia:1396::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Maya:1396::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-Amelie:1396::0:F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
-"Nana" Angelia:1340::0:F:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Logan:1350::0:M:Humaniti::Nanas Family:Firster:convoy:::::::
-Dona:1354::0:F:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Clinton:1357::0:M:Humaniti::Nanas Family:Firster:convoy:::::::
-Tobias:1359::11:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Loraine:1361::0:F:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Antonio:1385::0:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Harvey:1388::0:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Deven:1388::0:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Alan:1389::11:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Anne:1401::0:F:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Shawn:1401::0:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Pip:1401::0:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
-Lou:1356::0:M:Humaniti::Lous Family:Firster:Nowhere:::::::
-Tammy:1365::0:F:Humaniti::Lous Family:Firster:Nowhere:::::::
-Sharlene:1393::0:F:Humaniti::Lous Family:Firster:Nowhere:::::::
-Hellen:1393::11:F:Humaniti::Lous Family:Firster:Nowhere:::::::
-Herman:1395::11:M:Humaniti::Lous Family:Firster:convoy:::::::
-Terry:1395::11:M:Humaniti::Lous Family:Firster:Nowhere:::::::
-Nellie:1396::0:F:Humaniti::Lous Family:Firster:Nowhere:::::::
-Gustav:1396::0:M:Humaniti::Lous Family:Firster:Nowhere:::::::
-Jeremy:1358::0:M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Laura:1364::0:F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Francis:1386::0:M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Tim:1391::0:M:Humaniti::Jeremys Family:Firster:convoy:::::::
-Aldo:1392::0:M:Humaniti::Jeremys Family:Firster:convoy:::::::
-Bob:1396::0:M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Roxanne:1397::0:F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Deloris:1398::0:F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Sam:1399::10:M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Bonnie:1406::10:F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
-Debara:1364::0:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Bernard:1374::0:M:Humaniti::Debaras Family:Firster:convoy:::::::
-Catrina:1385::0:F:Humaniti::Debaras Family:Firster:convoy:::::::
-Aiya:1392::10:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Pam:1393::0:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Connie:1394::0:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Manni:1399::0:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Roxanne:1400::0:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Russel:1401::0:M:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Ron:1402::0:M:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Gina:1402::11:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Luke:1402::0:M:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Anne:1402::10:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
-Jerry:1358::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Alda:1366::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Anzu:1389::0:F:Humaniti::Jerrys Family:Firster:convoy:::::::
-Seth:1392::0:M:Humaniti::Jerrys Family:Firster:convoy:::::::
-Gilbert:1394::0:M:Humaniti::Jerrys Family:Firster:convoy:::::::
-Wyclef:1395::0:M:Humaniti::Jerrys Family:Firster:convoy:::::::
-Max:1396::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Katy:1396::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Wendy:1397::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Nikki:1397::11:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Babetta:1397::10:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Rute:1398::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Anthony:1399::12:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Delilah:1399::12:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Sammy:1403::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Willie:1406::10:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Dustin "Mooch" Bradley:1398::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Briana "Haggler" Wilkerson:1399::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Anthony "Wizard":1399::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Delilah "Flash":1399::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Leone Nessel:1405::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Herbert Nessel:1405::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Franz Brandis:1405::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Carina Brandis:1405::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Luis Platz:1405::0:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
-Isolde Platz:1405::0:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Jozu Goro:1416:769A97:D:M:Humaniti::Doc::Nowhere:::::::
+Brandi "Medic" Cooper:1416:::F:Humaniti::Doc::Nowhere:::::::
+CPT Marco Domici:1216:79A98B::M:Humaniti::The Domici:Firster:core:::::::
+Tala Domici:1399:996B22:C:F:Humaniti::The Domici:Firster:Nowhere:::CPL::::
+Karista:1411:::F:Humaniti::The Domici:Firster:Nowhere:::::::
+Ian:1404:877A22::M:Humaniti::The Domici:Firster:convoy:::::::
+Akil:1408:77B722::M:Humaniti::The Domici:Firster:Nowhere:::::::
+Carol Week:1366:::F:Humaniti::The Domici:Firster:Nowhere:::::::
+Josh Rivers:1388:::M:Humaniti::The Domici:Firster:Nowhere:::::::
+Dean Mays:1399:::F:Humaniti::The Domici:Firster:Nowhere:::::::
+Cal Wiggin:1396::A:M:Humaniti::The Domici:Firster:Nowhere:::::::
+Francisca "Pink" Welch:1397:::F:Humaniti::The Domici:Firster:Nowhere:::CPL::::
+Lavon "Gamer" Hudson:1396::A:M:Humaniti::The Domici:Firster:Nowhere:::CPL::::
+Garlan Deland:1388::A:M:Humaniti::The Domici:Firster:Nowhere:::::::
+Giselle:1391:87A898::F:Humaniti::The Domici:Firster:Nowhere:::::::
+Bryce Martel:1372:B8A89A::M:Humaniti::BDCR - South:Firster:core:::CPT::::
+Brandy Crane:1377:65AC83::F:Humaniti::BDCR - South:Firster:Nowhere:::LT::::
+Donald "Bug" Knapp:1381:6B8E43::M:Humaniti::BDCR - South:Firster:Nowhere:::::::
+Chandra "Chappy" Capelle:1382:78BC33::F:Humaniti::BDCR - South:Firster:Nowhere:::::::
+Dona:1396:::F:Humaniti::BDCR - South:Firster:Nowhere:::::::
+Jared Wilkins, PhD:1396:495DCE::M:Humaniti::BDCR - South:Firster:Nowhere:::::::
+Les Maillot:1374:A6CB48::M:Humaniti::BDCR - South:Firster:Nowhere:::LT::::
+Marlon Maillet:1372:698684::M:Humaniti::BDCR - South:Firster:Nowhere:::::::
+Pauline Lefranc:1372:::F:Humaniti::BDCR - South:Firster:convoy:::::::
+Angel Bitt:1394:::F:Humaniti::BDCR - South:Firster:convoy:::LCPL::::
+Randall Kane:1398:::M:Humaniti::BDCR - South:Firster:convoy:::PVT::::
+Ilana Cooke:1386:55AB56::F:Humaniti::BDCR - South:Firster:core:::::::
+Clifton Godwin:1391:::M:Humaniti::Flying Boat:Firster:Nowhere:::::::
+Mirriam Bitt:1394:::F:Humaniti::Flying Boat:Firster:Nowhere:::LCPL::::
+:1394::::Humaniti::Flying Boat:Firster:Nowhere:::::::
+:1394::::Humaniti::Flying Boat:Firster:Nowhere:::::::
+:1394::::Humaniti::Flying Boat:Firster:Nowhere:::::::
+:1394::::Humaniti::Flying Boat:Firster:Nowhere:::::::
+Roy McKenna:1266:::M:Humaniti::Hofud Marines:Firster:core:::1SGT::::
+Celinda Schmitt:1266:::F:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
+Gregorio McMahon:1266:::M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
+Cristine Cranston:1266::B:F:Humaniti::Hofud Marines:Firster:Oregrund:::CPL::::
+Nyla Pelissier:1266:::F:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
+Ezra Schroder:1266:::M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
+Jason Woodward:1266:::M:Humaniti::Hofud Marines:Firster:Nowhere:::CPL::::
+Kristopher Collins:1266:::M:Humaniti::Hofud Marines:Firster:Nowhere:::LCPL::::
+Rene Flament:1266:::F:Humaniti::Hofud Marines:Firster:convoy:::LCPL::::
+Patricia "Nowhere":1361:787CB5::F:Humaniti::Communication - Lot 2:Firster:core:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+:1361::::Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Tyjon:1400:::M:Humaniti::Communication - Lot 2:Firster:convoy:::::::
+Herman:1402:::M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Vashan:1325:::M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Lincoln:1365:::M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Allan:1401:::M:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Madelyn:1397:::F:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Kristine:1412:::F:Humaniti::Communication - Lot 2:Firster:Nowhere:::::::
+Mikael:1366:::M:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Leonard:1392:::M:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Julia:1384:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Brittany:1385:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+"Doctor" Marcie:1416:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+April:1397:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Irma:1399:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Georgette:1407:::F:Humaniti::Mikaels Diner - Lot 7:Firster:Nowhere:::::::
+Ken Atkin:1384:::M:Humaniti::Gunship Landing Pad - Lot 8:Firster:Nowhere:::LT::::
+Vance Wheeler:1390:::M:Humaniti::Gunship Landing Pad - Lot 8:Firster:Nowhere:::::::
+Sapphire Bradford:1416:::F:Humaniti::Great House/Medical Clinic - Lot 9:Firster:Oregrund:::::::
+Peggy:1388:::F:Humaniti::Great House/Medical Clinic - Lot 9:Firster:Nowhere:::::::
+Jarek:1353:::M:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
+Dana:1360:::F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
+Messiette:1381:876854::F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
+Wren:1394:78948B::F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
+Mari:1406:::F:Humaniti::Inn - Lot 10:Firster:Nowhere:::::::
+Stewart:1372:::M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
+Loretta:1382:::F:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
+Lorna:1390:::F:Humaniti::Market - Lot 11:Firster:convoy:::::::
+Lenora:1396:::F:Humaniti::Market - Lot 11:Firster:convoy:::::::
+Ruby:1401:::F:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
+Adam:1409:::M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
+Jomo:1354:::M:Humaniti::Market - Lot 11:Firster:Nowhere:::::::
+Holly:1382:::F:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
+William:1392:::M:Humaniti::Salvage - Lot 13:Firster:convoy:::::::
+Leah:1403:::F:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
+Roscoe:1406:::M:Humaniti::Salvage - Lot 13:Firster:Nowhere:::::::
+Jessie:1382:::M:Humaniti::Garage - Lot 14:Firster:Nowhere:::::::
+Georgette Gunarson:1327:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Takira:1362:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Kevin:1370:::M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+David:1379:::M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Brittney:1384:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Algernon:1409:::M:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Melinda:1396:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Lydia:1396:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Maya:1413:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+Amelie:1411:::F:Humaniti::Construction - Lot 15:Firster:Nowhere:::::::
+"Nana" Angelia:1416:::F:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Logan:1416:::M:Humaniti::Nanas Family:Firster:convoy:::::::
+Dona:1416:::F:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Clinton:1416:::M:Humaniti::Nanas Family:Firster:convoy:::::::
+Tobias:1416::B:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Loraine:1416:::F:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Antonio:1416:::M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Harvey:1416:::M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Deven:1416:::M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Alan:1416::B:M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Anne:1416:::F:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Shawn:1416:::M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Pip:1408:::M:Humaniti::Nanas Family:Firster:Nowhere:::::::
+Lou:1356:::M:Humaniti::Lous Family:Firster:Nowhere:::::::
+Tammy:1365:::F:Humaniti::Lous Family:Firster:Nowhere:::::::
+Sharlene:1393:::F:Humaniti::Lous Family:Firster:Nowhere:::::::
+Hellen:1393::B:F:Humaniti::Lous Family:Firster:Nowhere:::::::
+Herman:1395::B:M:Humaniti::Lous Family:Firster:convoy:::::::
+Terry:1395::B:M:Humaniti::Lous Family:Firster:Nowhere:::::::
+Nellie:1396:::F:Humaniti::Lous Family:Firster:Nowhere:::::::
+Gustav:1411:::M:Humaniti::Lous Family:Firster:Nowhere:::::::
+Jeremy:1358:::M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Laura:1364:::F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Francis:1386:::M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Tim:1391:::M:Humaniti::Jeremys Family:Firster:convoy:::::::
+Aldo:1392:::M:Humaniti::Jeremys Family:Firster:convoy:::::::
+Bob:1396:::M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Roxanne:1397:::F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Deloris:1398:::F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Sam:1399::A:M:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Bonnie:1406::A:F:Humaniti::Jeremys Family:Firster:Nowhere:::::::
+Debara:1364:::F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Bernard:1374:::M:Humaniti::Debaras Family:Firster:convoy:::::::
+Catrina:1385:::F:Humaniti::Debaras Family:Firster:convoy:::::::
+Aiya:1392::A:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Pam:1393:::F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Connie:1394:::F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Manni:1399:::F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Roxanne:1400:::F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Russel:1401:::M:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Ron:1402:::M:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Gina:1412::B:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Luke:1414:::M:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Anne:1414::A:F:Humaniti::Debaras Family:Firster:Nowhere:::::::
+Jerry:1358:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Alda:1366:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Anzu:1389:::F:Humaniti::Jerrys Family:Firster:convoy:::::::
+Seth:1392:::M:Humaniti::Jerrys Family:Firster:convoy:::::::
+Gilbert:1394:::M:Humaniti::Jerrys Family:Firster:convoy:::::::
+Wyclef:1395:::M:Humaniti::Jerrys Family:Firster:convoy:::::::
+Max:1396:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Katy:1396:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Wendy:1397:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Nikki:1397::B:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Babetta:1397::A:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Rute:1398:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Anthony "Wizard":1399::C:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Delilah "Flash":1399::C:F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Sammy:1403:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Willie:1406::A:M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Dustin "Mooch" Bradley:1398:987955::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Briana "Haggler" Wilkerson:1399:796995::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Leone Nessel:1405:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Herbert Nessel:1408:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Franz Brandis:1405:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Carina Brandis:1413:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Luis Platz:1405:::M:Humaniti::Jerrys Family:Firster:Nowhere:::::::
+Isolde Platz:1409:::F:Humaniti::Jerrys Family:Firster:Nowhere:::::::
