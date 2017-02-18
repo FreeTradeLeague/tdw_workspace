@@ -4,7 +4,7 @@ DATADIR = File.expand_path("../../data", __FILE__)
 data_file = DATADIR + "/tdw.db"
 db = SQLite3::Database.new(data_file)
 
-options = { "id" => 3, "name" => "CPT Marco Domici", "upp" => "78BAFC"}
+options = { "id" => 3, "name" => "CPT Marco Domici", "upp" => "78BADC"}
 id    = options["id"]
 name  = options["name"]
 upp   = options["upp"]

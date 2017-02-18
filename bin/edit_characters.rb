@@ -21,18 +21,32 @@ def pull_character(options)
 end
 
 def save_character(options)
-  datadir = File.expand_path("../../data", __FILE__)
-  data_file = datadir + "/tdw.db"
-  db = SQLite3::Database.new(data_file)
-  id    = options["id"]
-  name  = options["name"]
-  upp   = options["upp"]
-  statement = db.prepare "UPDATE people_1416 SET name = ?,upp = ? WHERE id = ?"
-  statement.bind_params name, upp, id
-  results = statement.execute
-  row     = results.next
-  statement.close if statement
-  db.close if db
+  begin 
+    datadir = File.expand_path("../../data", __FILE__)
+    data_file = datadir + "/tdw.db"
+    db = SQLite3::Database.new(data_file)
+    id    = options["id"]
+    name  = options["name"]
+    upp   = options["upp"]
+    statement = db.prepare "UPDATE people_1416 SET name = ?,upp = ? WHERE id = ?"
+    statement.bind_params name, upp, id
+    #statement.bind_params(options["name"], options["id"])
+    results = statement.execute
+    #db.execute("UPDATE people_1416 SET name = ?, upp = ? WHERE id = ?",
+    #  options["name"], options["upp"], options["id"])
+    run = results.next
+ 
+    rows = db.execute("SELECT * FROM people_1416 WHERE name LIKE '%Marco%' ") do |row|
+      options["id"]    = row[0]
+      options["name"]  = row[1]
+      options["upp"]   = row[3]
+    end
+    puts "#{options['upp']}"
+    statement.close if statement
+    db.close if db
+  rescue SQLite3::Exception => e
+    puts e.to_s
+  end
 end
 
 def open_edit_window(options)
@@ -50,15 +64,15 @@ def open_edit_window(options)
   entry_pack   = packing(5, 2, :left, :center)
   frame_pack   = packing(2, 2, :top, :center)
 
-  var_name    = TkVariable.new
-  var_upp     = TkVariable.new
+  options["var_name"]    = TkVariable.new(options["name"])
+  options["var_upp"]     = TkVariable.new(options["upp"])
   
   label_name  = TkLabel.new(name_frame) do
     text "Name"
     pack label_pack
   end
   entry_name  = TkEntry.new(name_frame) do
-    textvariable  var_name
+    textvariable  options["var_name"]
     font "{Arial} 12"
     pack entry_pack
   end
@@ -68,7 +82,7 @@ def open_edit_window(options)
     pack label_pack
   end
   entry_name  = TkEntry.new(upp_frame) do
-    textvariable var_upp
+    textvariable options["var_upp"]
     font "{Arial} 12"
     pack entry_pack
   end
@@ -77,8 +91,8 @@ def open_edit_window(options)
   name_frame.pack frame_pack
   upp_frame.pack  frame_pack
 
-  var_name.value  = options["name"]
-  var_upp.value   = options["upp"]
+  #var_name.value  = options["name"]
+  #var_upp.value   = options["upp"]
 end 
   
 def open_search_window(options)
