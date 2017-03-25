@@ -1,0 +1,25 @@
+require 'tk'
+
+class UpdateCharacter
+  def show_update
+    @text.value = '777777'
+  end
+  def initialize
+    ph    = {'padx' => 10, 'pady' => 10}
+    root  = TkRoot.new { title "Update Character"}
+    top   = TkFrame.new(root) { background "white"}
+    TkLabel.new(top) {text 'Enter Text:'; pach(ph) }
+   # @text = TkVariable.new
+   # @text.value = '888888'
+    TkEntry.new(top, 'textvariable' => @text).pack(ph)
+    char_b  = TkButton.new(top) {text 'Update'; pack ph}
+   # char_b.command  {show_update}
+    exit_b  = TkButton.new(top) {text 'Exit'; pack ph}
+    exit_b.command {exit}
+    top.pack('fill'=>'both', 'side' => 'top')
+  end
+end
+
+UpdateCharacter.new
+Tk.mainloop
+

@@ -1,0 +1,20 @@
+
+# To use options
+require 'optparse'
+
+options = Hash.new(0)
+
+option_parser = OptionParser.new do |opts|
+  opts.on("-c career", "Career, defaults based on Soc") do |c| 
+    options["career"] = c if available_careers.include?(c)
+  end
+  opts.on("-t terms", "Terms, defaults to range of 1-5") do |t|
+    options["terms"] = t.to_i
+  end
+  opts.on("-b", "Just a basic Character") do
+    basic_character = true
+  end
+end
+option_parser.parse!
+
+

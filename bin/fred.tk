@@ -1,0 +1,14 @@
+require 'tk'
+
+def myproc
+  puts "The user said ok!"
+  exit
+end
+
+root = TkRoot.new { title "Hello, World!" }
+b_ok  = TkButton.new(root) do
+  text "ok"
+  command (proc {myproc})
+  Tk.pack({"side" => "right", "padx" => "50", "pady" => "10"})
+end
+Tk.mainloop
